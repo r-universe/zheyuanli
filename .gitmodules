@@ -5,3 +5,6 @@
 [submodule "gps"]
 	path = gps
 	url = https://github.com/zheyuanli/gps
+[submodule "psme"]
+	path = psme
+	url = https://github.com/zheyuanli/psme
